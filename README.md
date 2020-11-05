@@ -144,5 +144,3 @@ const generateHeader = () => {
 generateHeader()
 headerBtn.addEventListener("click", generateHeader)
 ```
-
-say-hi-btn
